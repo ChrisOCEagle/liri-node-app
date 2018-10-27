@@ -1,0 +1,139 @@
+spotify-this-song
+
+Graveyard Near The House
+
+------------------------------------------------------------------------
+
+
+
+Track: The Graveyard Near The House
+
+Album: All At Once
+
+Artist: The Airborne Toxic Event
+
+Url to play the song on Spotify: https://open.spotify.com/track/5ZyVc23cCY8F7Vw4AEk20P
+
+
+
+------------------------------------------------------------------------
+
+concert-this
+
+Ghost
+
+------------------------------------------------------------------------
+
+
+
+Date of the Concert: 11/23/2018
+
+Concert Venue: Dr. Phillips Center
+
+Venue Location: 🇺🇸orlando FL United States
+
+
+
+------------------------------------------------------------------------
+
+concert-this
+
+Ghost
+
+------------------------------------------------------------------------
+
+
+
+Date of the Concert: 11/24/2018
+
+Concert Venue: The Fillmore
+
+Venue Location: 🇺🇸miami FL United States
+
+
+
+------------------------------------------------------------------------
+
+concert-this
+
+Ghost
+
+------------------------------------------------------------------------
+
+
+
+Date of the Concert: 11/25/2018
+
+Concert Venue: Ruth Eckerd Hall
+
+Venue Location: 🇺🇸clearwater FL United States
+
+
+
+------------------------------------------------------------------------
+
+concert-this
+
+Ghost
+
+------------------------------------------------------------------------
+
+
+
+Date of the Concert: 12/01/2018
+
+Concert Venue: Florida Theatre
+
+Venue Location: Jacksonville FL United States
+
+
+
+------------------------------------------------------------------------
+movie-this
+
+Monty Python and The Holy Grail
+
+---------------------------------------------------------------------
+
+
+
+Movie Title: Monty Python and the Holy Grail
+
+Year Released: 27 Jun 1975
+
+Rating on IMDB: 8.3/10
+
+Rating on Rotten Tomatoes: 97%
+
+Country Produced in: UK
+
+Language Produced in: English, French, Latin
+
+Movie Plot: King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.
+
+Movie Cast: Graham Chapman, John Cleese, Eric Idle, Terry Gilliam
+
+
+
+---------------------------------------------------------------------
+
+Do What It Says,spotify-this-song, "I Want it That Way"spotify-this-song
+
+ "I Want it That Way"
+
+------------------------------------------------------------------------
+
+
+
+Track: I Want It That Way
+
+Album: Cocktails & Dreams
+
+Artist: The Cooltrane Quartet
+
+Url to play the song on Spotify: https://open.spotify.com/track/7dwSPBPgYyRYpvlb9XnHBx
+
+
+
+------------------------------------------------------------------------
+

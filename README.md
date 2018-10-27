@@ -7,3 +7,7 @@ During this project my goal is to create a Language Interpretation and Recogniti
 ##### Steps
 
 1. Create the liri file that will run each module
+    1. Create a module to run the spotify search
+        1. ![Spotify Song Search](./spotifyProof.png)
+    1. Create a module to run the omdb search
+    1. Create a module to run the bands in town search
