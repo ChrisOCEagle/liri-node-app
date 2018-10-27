@@ -10,4 +10,8 @@ During this project my goal is to create a Language Interpretation and Recogniti
     1. Create a module to run the spotify search
         1. ![Spotify Song Search](./spotifyProof.png)
     1. Create a module to run the omdb search
+        1. ![OMDB Movie Search](./movieProof.png)
     1. Create a module to run the bands in town search
+        1. ![Bandsintown Concert Search](./concertProof.png)
+    1. Create a way to read a random text file and output the results of whatever search is within the text file
+        1. ![Reading the random.txt and outputting the results of the search](./doWhatItSays.png)
